@@ -7,7 +7,7 @@ import { Subject } from '../../node_modules/rxjs';
   providedIn: 'root'
 })
 export class WebSocketService {
-  socket = io('http://10.88.45.200:3000');
+  socket = io('http://localhost:3000');
   private subject = new Subject<any>();
   private getMsgSubject = new Subject<any>();
   private leftRoomSubject = new Subject<any>();
