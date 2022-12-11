@@ -22,7 +22,7 @@
     "@angular/router": "~7.1.0",
     "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^1.19.2",
     "rxjs": "~6.3.3",
     "socket.io": "^2.3.0",
